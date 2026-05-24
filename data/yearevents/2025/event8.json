@@ -5,11 +5,11 @@
   "links": [
     {
       "img1": "Event Page",
-      "url": "img/event8/Kicad1.png"
+      "url": "img/event8/kicad1.png"
     },
     {
       "img2": "img2",
-      "url": "img/event8/Kicad2.png"
+      "url": "img/event8/kicad2.png"
     },
     {
       "img3": "Event Link",
@@ -17,7 +17,7 @@
     },
     {
       "img4": "Event pdf",
-      "url": "pdf/Kicad workshop report (1).pdf"
+      "url": "pdf/Kicad_workshop_report(1).pdf"
     }
   ]
 }
